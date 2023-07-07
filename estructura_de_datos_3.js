@@ -80,7 +80,7 @@ console.log(miArbol.size())
 //PRE-ORDER=>  Nodo--Izquierda--Derecha
 //IN-ORDER=> Izquierda--Nodo--Derecha
 
-
+W
 function tukis(value){
     console.log(value);
 }
